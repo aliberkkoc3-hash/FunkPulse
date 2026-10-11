@@ -13,7 +13,7 @@ Editör, sözdizimi renklendirmesi, sekmeler, yan menü, terminal, açılır men
 
 ## 🎨 Renklerle oynamak mı istiyorsun?
 
-`themes/fnf-neon-color-theme.json` dosyasını aç.
+`themes/funkpulse-theme.json` dosyasını aç.
 
 - `colors`: VS Code arayüzünün renkleri. Menüler, paneller ve diğer görsel alanlar burada.
 - `tokenColors`: Kodların sözdizimi renkleri. Değişkenler, anahtar kelimeler ve diğer kod parçaları burada.
