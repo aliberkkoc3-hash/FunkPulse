@@ -8,7 +8,7 @@ Editör, sözdizimi renklendirmesi, sekmeler, yan menü, terminal, açılır men
 
 1. VS Code'u aç ve `Ctrl + Shift + X` tuşlarına bas. Eklentiler menüsüne hoş geldin!
 2. Sağ üstteki `...` menüsüne tıkla ve **VSIX'ten Yükle...** seçeneğini seç.
-3. `FNF_Neon_BF_Edition.vsix` dosyasını bulup seç. Eski FNF Neon sürümü hâlâ sahnedeyse `Ctrl + K`, ardından `Ctrl + T` yap ve **FNF Neon: BF Edition** temasını seç.
+3. `funkpulse-0.0.1.vsix` dosyasını bulup seç. Eski FNF Neon sürümü hâlâ sahnedeyse `Ctrl + K`, ardından `Ctrl + T` yap ve **FNF Neon: BF Edition** temasını seç.
 4. Tema hâlâ eski hâlindeyse Komut Paleti'ni aç (`Ctrl + Shift + P`) ve **Developer: Reload Window** komutunu çalıştır. Biraz da VS Code kendine gelsin. 🫡
 
 ## 🎨 Renklerle oynamak mı istiyorsun?
