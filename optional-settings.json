@@ -1,0 +1,17 @@
+{
+  "editor.fontFamily": "'Cascadia Code', Consolas, monospace",
+  "editor.fontSize": 13,
+  "editor.fontWeight": "500",
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 23,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+  "editor.renderLineHighlight": "all",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.indentation": true,
+  "editor.stickyScroll.enabled": true,
+  "terminal.integrated.fontFamily": "'Cascadia Code', Consolas, monospace",
+  "terminal.integrated.fontSize": 12
+}

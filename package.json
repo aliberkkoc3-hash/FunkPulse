@@ -1,0 +1,33 @@
+{
+  "name": "funkpulse",
+  "displayName": "FunkPulse",
+  "description": "Friday Night Funkin'den ilham alan FunkPulse; BFAli'nin koyu lacivert, canlı mavi ve koyu kırmızı renklerini modern, şık bir VS Code temasında buluşturur. Kod editörüne ritim ve enerji katmak için PrismCrew tarafından tasarlanmıştır.",
+  "version": "0.0.1",
+  "publisher": "PrismCrew",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "tema",
+    "karanlık",
+    "fnf",
+    "friday-night-funkin",
+    "boyfriend",
+    "mavi",
+    "kırmızı",
+    "prismcrew"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "FunkPulse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/funkpulse-theme.json"
+      }
+    ]
+  }
+}
