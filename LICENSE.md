@@ -1,37 +1,56 @@
-# FunkPulse — Kullanım ve Haklar Bildirimi
+# Prism Crew Studio License (PCSL) v1.0
 
-Telif Hakkı © 2026 Prism Crew. Tüm hakları saklıdır.
+Copyright (c) 2026 Prism Crew Studio. All rights reserved.
 
-## 1. Hak sahipliği
+## 1. Ownership
 
-FunkPulse projesine ait özgün tema dosyaları, yapılandırmalar, açıklamalar, grafikler ve diğer proje materyalleri, aksi açıkça belirtilmedikçe Prism Crew'e aittir. Friday Night Funkin', The Funkin' Crew ve ilgili adlar/markalar kendi hak sahiplerine aittir. FunkPulse, The Funkin' Crew ile bağlantılı olmayan, bağımsız ve topluluk yapımı bir projedir.
+All source code, software, libraries, tools, assets, designs, documentation, and other materials distributed under this license are the intellectual property of Prism Crew Studio or their respective credited owners, unless explicitly stated otherwise.
 
-## 2. İzin verilen kullanım
+## 2. Permission
 
-Bu bildirim kapsamında, FunkPulse'ı kişisel kullanım amacıyla indirip kurmanız ve kullanmanız mümkündür.
+Permission is granted to view and study the source code for educational, research, and personal learning purposes.
 
-## 3. İzin alınmadan yasaklanan işlemler
+Such permission does not grant the right to redistribute, republish, sell, sublicense, or commercially exploit the licensed materials.
 
-Prism Crew'den önceden alınmış açık ve yazılı izin olmadıkça aşağıdakilere izin verilmez:
+## 3. Restrictions
 
-- Projenin tamamını veya önemli bir bölümünü kopyalamak ya da yeniden yayımlamak.
-- Projeyi değiştirilmiş veya değiştirilmemiş hâliyle yeniden dağıtmak.
-- Projeyi veya proje materyallerini ticari amaçla satmak, lisanslamak ya da paketleyip sunmak.
-- Projeyi kendi çalışmanızmış gibi göstermek veya yazarlık/marka atfını kaldırmak.
-- Proje materyallerini başka bir tema, eklenti veya ürüne dâhil ederek yayımlamak.
+Without prior written permission from Prism Crew Studio, you may not:
 
-## 4. İzin talepleri
+- Copy, redistribute, or republish the licensed materials or substantial portions thereof.
+- Sell, sublicense, or commercially exploit the licensed materials.
+- Publish modified or derivative versions of the licensed materials.
+- Claim authorship or ownership of the original work.
+- Remove copyright notices, license notices, or author credits.
+- Use the licensed materials in another project in a way that violates this license.
 
-Yukarıdaki kısıtlamaların dışında kalan bir kullanım için izin almak istiyorsanız, proje sahibine ait resmî iletişim veya depo kanalı üzerinden yazılı izin talep edin. İzin verilmiş sayılması için açık bir yazılı onay gerekir.
+## 4. Attribution
 
-## 5. Garanti ve sorumluluk
+Any use expressly authorized by Prism Crew Studio must retain all applicable copyright notices, author credits, and attribution requirements.
 
-Proje “olduğu gibi” sunulur; açık veya zımni herhangi bir garanti verilmez. Yürürlükteki hukukun izin verdiği azami ölçüde Prism Crew, projenin kullanımından veya kullanılamamasından kaynaklanan zararlar için sorumluluk kabul etmez.
+Attribution alone does not constitute permission to use, modify, or redistribute the licensed materials.
 
-## 6. Lisans değişikliği ve önceki sürümler
+## 5. Third-Party Materials
 
-Bu bildirim, dosyanın bulunduğu proje sürümü için geçerlidir. Daha önce farklı bir lisansla yayımlanmış sürümlerin koşulları, o sürümün yayımlandığı tarihteki lisansına bağlı olabilir. Bu bildirim, önceki sürümlere verilmiş geçerli izinleri kendiliğinden geri almaz.
+Third-party libraries, assets, and components remain subject to their own respective licenses. This license does not override or replace those licenses.
 
----
+## 6. No Warranty
 
-Bu metin genel bir proje kullanım bildirimi taslağıdır; hukuki danışmanlık değildir. Projeyi yayımlamadan önce ihtiyaçlarınıza ve yürürlükteki hukuka uygunluğunu kontrol etmeniz önerilir.
+The licensed materials are provided "AS IS", without warranties of any kind, express or implied, to the maximum extent permitted by applicable law.
+
+Prism Crew Studio shall not be liable for claims or damages arising from the use of the licensed materials, to the maximum extent permitted by applicable law.
+
+## 7. Termination
+
+Any rights granted under this license terminate automatically if you materially violate its terms, subject to applicable law.
+
+## 8. Requests for Permission
+
+For permissions not explicitly granted by this license, contact Prism Crew Studio through its official communication channels.
+
+## 9. Copyright Notice
+
+Unless otherwise specified:
+
+Copyright (c) 2026 Prism Crew Studio. All rights reserved.
+
+Unauthorized copying, redistribution, or commercial use is prohibited.
