@@ -1,34 +1,43 @@
-# Güvenlik Politikası
+# Prism Crew Studio — Security Policy
 
-FunkPulse, Prism Crew tarafından hazırlanan bir Visual Studio Code temasıdır. Güvenlik bildirimleri için aşağıdaki kurallara uyulmasını rica ederiz.
+**Version:** 1.0  
+**Effective Date:** October 24, 2026  
+**Copyright:** © 2026 Prism Crew Studio. All rights reserved.
 
-## Desteklenen sürümler
+### 1. Our Objective
 
-Öncelikli olarak en güncel sürüm incelenir. Eski sürümler için düzeltme, bakım veya destek sağlanacağı garanti edilmez.
+At Prism Crew Studio, we prioritize the security of our projects, source code, and users. This policy outlines how security vulnerabilities discovered in our projects should be reported and addressed.
 
-## Güvenlik açığı bildirme
+### 2. Supported Versions
 
-Bir güvenlik sorunu tespit ettiğinizi düşünüyorsanız:
+Security updates are provided for project versions that we actively maintain and explicitly support. The support status for each project is specified within its respective repository.
 
-1. Sorunu kamuya açık biçimde yayımlamadan önce proje sahibine özel bir kanal üzerinden bildirin.
-2. Bildirime etkilenen sürümü, sorunun etkisini, yeniden üretme adımlarını ve varsa ilgili günlükleri ekleyin.
-3. Parola, erişim anahtarı, kişisel veri veya başka gizli bilgileri paylaşmayın.
-4. Başkasına ait sistemlerde açık aramayın, güvenlik testleri yapmayın veya izinsiz erişim denemesinde bulunmayın.
+### 3. Reporting Vulnerabilities
 
-## Katı açıklama kuralları
+If you discover a security vulnerability, please:
 
-- Açık ayrıntılarını, çalışan istismar kodunu veya kullanıcıları riske atabilecek teknik ayrıntıları düzeltme/inceleme için makul süre tanımadan kamuya açık paylaşmayın.
-- Güvenlik sorunu hakkında kamuya açık kayıt açmanız gerekiyorsa, hassas ayrıntıları ve istismar adımlarını eklemeyin.
-- Bildirim için otomatik olarak belirli bir yanıt süresi veya düzeltme tarihi taahhüt edilmez.
+- Report it privately to Prism Crew Studio before disclosing it publicly.
+- Identify the affected project and version.
+- Describe the impact of the vulnerability and, if possible, provide steps to reproduce it.
+- Do not include passwords, access keys, or other personal/sensitive information in your report.
 
-## Bildirim kanalı
+For reporting, please use the *Private vulnerability reporting* feature found under the **Security** tab of the relevant GitHub repository. If this feature is unavailable, please use the private communication channel specified by the repository maintainer.
 
-Bu dosyada doğrulanmış bir güvenlik e-posta adresi bulunmadığından e-posta adresi uydurulmamıştır. Projenin barındırıldığı platformda özel güvenlik bildirimi veya özel iletişim kanalı varsa onu kullanın. Böyle bir kanal yoksa, herkese açık bir sorun kaydı açmadan önce proje sahibinden özel bildirim yöntemi isteyin; hassas ayrıntıları herkese açık paylaşmayın.
+### 4. Responsible Disclosure
 
-## Kapsam
+We request that you allow a reasonable amount of time for us to investigate, verify, and remediate any reported vulnerabilities. Vulnerabilities should not be disclosed publicly without prior coordination with Prism Crew Studio.
 
-Bu politika FunkPulse'ın tema dosyaları, proje yapılandırması ve dağıtım paketiyle ilgili bildirimleri kapsar. Visual Studio Code veya üçüncü taraf bileşenlere ait sorunlar ilgili proje sahiplerine de bildirilmelidir.
+We do not guarantee that every report will be accepted, resolved within a specific timeframe, or eligible for a reward.
 
-## Sorumlu bildirim
+### 5. Scope and Limitations
 
-İyi niyetli ve sorumlu bildirimler memnuniyetle karşılanır. Bununla birlikte, bildirim yapan kişiye belirli bir ödül, yanıt süresi veya düzeltme garantisi verilmez.
+Security research must be conducted only on systems for which you have authorization and in compliance with all applicable laws. Do not access user data, disrupt services, or put others' systems at risk by testing for vulnerabilities.
+
+### 6. Communication
+
+For security-related notifications, use the security contact method specified in the GitHub repository for the relevant project. Do not assume or guess a contact address that has not been explicitly provided.
+
+---
+
+**Prism Crew Studio**  
+*Beyond the Spectrum*
